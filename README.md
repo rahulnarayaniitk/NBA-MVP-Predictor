@@ -1,5 +1,5 @@
 # NBA-MVP-Predictor
-Predict the MVP of upcoming NBA season based on historical data
+To predict the MVP of upcoming NBA season based on historical data
 
 
 Here's a concise summary of my project:
